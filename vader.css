@@ -1,0 +1,131 @@
+body
+{
+  background-color : #0E0E1B
+}
+
+p
+{
+    text-align: center;
+    font-size: 18px;
+    color: #58C7D6;
+    font-family: 'Dhurjati', sans-serif;
+}
+
+h2, h3
+{
+    text-align: center;
+    color: red;
+}
+
+.box-logo
+{
+    border-bottom: solid 5px #58C7D6;
+}
+
+.box
+{
+    margin-top: 50px;
+}
+
+.versus
+{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 220px;
+}
+
+.versus img
+{
+    width: 200px;
+    height: auto;
+}
+
+.select img
+{
+    border: solid 4px whitesmoke;
+    margin: 4px;
+}
+
+.select img:hover
+{
+    border: solid 4px #58C7D6;
+}
+
+.fighter img
+{
+    border: solid 4px ;
+}
+
+.description
+{
+    border: solid 2px #58C7D6;
+    padding: 12px;
+    margin: 30px;
+}
+
+button
+{
+  background: red;
+  border: none;
+  color: whitesmoke;
+  font-size: 30px;
+  position: relative;
+  left: 18px;
+
+}
+
+/*  Mobile Tablettes   */
+@media only screen and (max-width: 971px)
+{
+    .logo
+    {
+        width: 280px;
+        height: auto;
+    }
+}
+
+
+
+
+/*     */
+
+
+.versus img
+{
+    width: 200px;
+    height: auto;
+}
+
+.select img
+{
+    border: solid 4px whitesmoke;
+    margin: 4px;
+}
+
+.select img:hover
+{
+    border: solid 4px #58C7D6;
+}
+
+.fighter img
+{
+    border: solid 4px #58C7D6;
+}
+
+.description
+{
+    border: solid 2px #58C7D6;
+    padding: 12px;
+    margin: 30px;
+}
+
+/*  Mobile Tablettes   */
+@media only screen and (max-width: 971px)
+{
+    .logo
+    {
+        width: 280px;
+        height: auto;
+    }
+}

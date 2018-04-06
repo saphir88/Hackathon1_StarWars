@@ -1,0 +1,60 @@
+body {
+    background-color: #0E0E1B
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.img_winner {
+    border-color: #58C7D6;
+    border-width: 2px;
+    border-style: ridge;
+    width : 20%;
+}
+
+.description {
+    border-color: #58C7D6;
+    border-width: 2px;
+    border-style: ridge;
+    padding : 50px;
+    text-align: center;
+    font-size: 1.2em;
+    color: #58C7D6;
+    font-family: 'Dhurjati', sans-serif;
+}
+
+.btn {
+    border-color: #58C7D6;
+    border-width: 2px;
+    border-style: ridge;
+    background-color: transparent;
+    font-family: 'Dhurjati', sans-serif;
+    font-size : 2em;
+    color: #58C7D6;
+    border-color: #58C7D6;
+    border-width: 2px;
+}
+
+.btn:hover {
+    color : #ffffff;
+}
+
+footer {
+  width: 100%;
+  bottom: 0;
+  color: #58C7D6;
+  font-family: 'Dhurjati', sans-serif;
+  text-align: center;
+}
+
+/*  Mobile Tablettes   */
+@media only screen and (max-width: 971px)
+{
+    .logo
+    {
+        width: 280px;
+        height: auto;
+    }
+}
