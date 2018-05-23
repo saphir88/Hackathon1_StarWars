@@ -1,5 +1,3 @@
-# [Hackathon1 Star Wars](https://github.com/saphir88/Hackathon1_StarWars/)
-
 ## Le projet :
 Création d'un site web dont le but était de se faire affronter 2 personnages afin d'avoir un gagnant et un résumé du combat en utilisant une API en ligne ([superheroapi](http://www.superheroapi.com/)).
 
@@ -15,5 +13,3 @@ Ce Hackaton a été créé par 4 élèves de la wild code school :
 * [Kyle](https://github.com/Battletoad21)
 * [Tiffany](https://github.com/tiffaanym)
 * [Thomas](https://github.com/saphir88/)
-
-### [Lien vers le dépôt Github](https://github.com/saphir88/Hackaton1_StarWars/)
