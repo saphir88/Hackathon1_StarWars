@@ -1,4 +1,4 @@
-# [Hackathon1 StarWars](https://github.com/saphir88/Hackathon1_StarWars/)
+# [Hackathon1 Star Wars](https://github.com/saphir88/Hackathon1_StarWars/)
 
 ## Le projet :
 Création d'un site web dont le but était de se faire affronter 2 personnages afin d'avoir un gagnant et un résumé du combat en utilisant une API en ligne ([superheroapi](http://www.superheroapi.com/)).
