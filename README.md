@@ -16,4 +16,4 @@ Ce Hackaton a été créé par 4 élèves de la wild code school :
 * [Tiffany](https://github.com/tiffaanym)
 * [Thomas](https://github.com/saphir88/)
 
-### [Lien vers le dépôt Github](https://github.com/saphir88/Hackaton1_StarWars/))
+### [Lien vers le dépôt Github](https://github.com/saphir88/Hackaton1_StarWars/)
